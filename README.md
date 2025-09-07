@@ -1,4 +1,4 @@
-# Prueba Técnica Igloolab - Todo App
+# App CRUD Front + Back + Mobile
 
 Entorno dockerizado con frontend React+TypeScript, backend Node+TypeScript con Prisma y Postgres.
 
