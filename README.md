@@ -8,11 +8,6 @@ Entorno dockerizado con frontend React+TypeScript, backend Node+TypeScript con P
 # Desde la raíz
 docker compose up --build -d
 
-# Migraciones Prisma (si es primera vez)
-docker compose exec backend npx prisma generate
-docker compose exec backend npx prisma migrate dev --name init_products
-```
-
 - Frontend: http://localhost:5173
 - Backend: http://localhost:4000
 - Health: http://localhost:4000/health
