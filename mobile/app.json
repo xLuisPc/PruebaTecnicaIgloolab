@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Igloo Mobile",
+    "slug": "igloo-mobile",
+    "scheme": "igloomobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android", "web"],
+    "userInterfaceStyle": "automatic"
+  }
+}
+
+
