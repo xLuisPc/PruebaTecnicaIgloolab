@@ -1,6 +1,6 @@
 # App CRUD Front + Back + Mobile
 
-Entorno dockerizado con frontend React+TypeScript, backend Node+TypeScript con Prisma y Postgres.
+Entorno dockerizado con frontend React+TypeScript, backend Node + Express + Prisma y Postgres.
 
 ## Levantar con Docker
 
